@@ -1,0 +1,19 @@
+{
+  "name": "ta_orgapi",
+  "version": "1.0.0",
+  "description": "Total Access Organization API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Entryfy/ta_orgapi.git"
+  },
+  "author": "Entryfy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Entryfy/ta_orgapi/issues"
+  },
+  "homepage": "https://github.com/Entryfy/ta_orgapi#readme"
+}
